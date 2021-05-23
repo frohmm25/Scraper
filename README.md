@@ -1,6 +1,6 @@
 # Web Scrape Tool
-More functionality to be added
+More functionality to be added.
 
-Thanks to free code camp
+Thanks to free code camp!
 
 -Mike
